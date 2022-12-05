@@ -1,6 +1,6 @@
 # React Social Media Dashboard
 
-Este desafio foi tirado diretamente do site frontendmentor.io, sendo feito em react, sendo o meu primeiro contato com a ferramenta, aprendi muita coisa fazendo o desafio com o react.
+Este desafio feito em react foi tirado diretamente do site frontendmentor.io, sendo o meu primeiro contato com a ferramenta react, aprendi muita coisa fazendo o desafio.
 
 Você pode ver o projeto funcionando nesse link: https://cristhianrodrigues.github.io/react-social-media-dashboard/
 
